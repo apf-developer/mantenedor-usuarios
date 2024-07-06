@@ -12,7 +12,7 @@ Estas instrucciones están realizadas para ser seguidas desde windows, no se ha 
 ## Requisitos
 
 - Sistema operativo Windows
-- Tener Instalado PHP <a href="https://www.youtube.com/watch?v=3tnb9FuWfpU&ab_channel=Stian"> Video como instalar PHP acá</a>
+- Tener Instalado Xampp
 - Tener Instalado Docker Desktop
 - Tener Instalado WSL
 - Tener Instalado Node  <a href="https://www.youtube.com/watch?v=29mihvA_zEA&t=1s&ab_channel=CarlosMasterWeb">Video como instalar Node acá</a>
