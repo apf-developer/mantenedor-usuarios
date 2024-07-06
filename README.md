@@ -37,7 +37,7 @@ Copia archivo .env
 
     cp .env.example .env
 
-Reemplaza en el .env recien creado estas variables
+Reemplaza en el .env recien creano, estas variables
 
     DB_DATABASE=api_db
     DB_USERNAME=root
